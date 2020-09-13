@@ -1,0 +1,62 @@
+body {
+  font-family: "BIZ UDP明朝";
+}
+
+.title {
+  margin: 50px 0px 0px 0px;
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+header {
+  margin: auto;
+  width: 90%;
+  padding-bottom: 70px;
+}
+
+.course {
+  background-color: #F2F2F2;
+  padding: 20px 0px;
+  border-radius: 17px;
+  border: 1px solid #D6D6D6;
+}
+
+.course table{
+  width: 90%;
+  margin: auto;
+  border-collapse:collapse;
+}
+
+.course table th,td {
+  border: 1px solid #E5E5E5;
+  text-align: center;
+}
+
+.course table th {
+  background-color: #283E49;
+  font-size: 20px;
+  color: white;
+  padding:20px 30px
+} td {
+  padding: 30px 30px;
+  background: white;
+}
+
+.standard {
+  background-color: gray;
+  color: white;
+  font-size: 20px;
+}
+
+.light {
+  background-color: silver;
+  color: white;
+  font-size: 20px;
+}
+
+.cheep {
+  font-size: 20px;
+  color: #DD004B;
+}
